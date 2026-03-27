@@ -413,12 +413,6 @@ MIT License — see LICENSE file for details.
 
 ---
 
-<p align="center">
-  <strong>🌐 NetSim Pro — Network Simulation Lab — Now Ready for Your Portfolio! 🌐</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECT_44-COMPLETE-00d4ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/README-GENERATED-06b6d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/READY_TO_DEPLOY-10b981?style=for-the-badge" />
-</p>
-```
+**NetSim Pro** is more than a simulator — it's your interactive networking lab. 🚀
+
+*Updated: March 2026*
